@@ -1,0 +1,9 @@
+This is a small script for feeding Knowledge Store that can be
+integrated in a Newsreader style pipeline.
+
+Please edit config.pl to specify where to look for these
+resources:
+
+$ksserver = KS url
+$jdkloc= JDK 1.8 directory
+$kstoolsloc= ks-distribution-1.7.1-tools directory
